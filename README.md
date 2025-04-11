@@ -1,6 +1,6 @@
 # Hi there, I'm Dilasha Ghimire👋
 
-Welcome to my GitHub! I am a passionate Computer Science student and aspiring software engineer with a deep interest in AI and machine learning. As a girl in tech, I’m driven to contribute to the ever-evolving world of technology and explore innovative solutions. I’m always eager to learn, collaborate, and grow within the tech community. Feel free to explore my repositories!
+Welcome to my GitHub! I am a passionate Computer Science student with a deep interest in AI and machine learning. As a girl in tech, I’m driven to contribute to the ever-evolving world of technology and explore innovative solutions. I’m always eager to learn, collaborate, and grow within the tech community. Feel free to explore my repositories!
 
 ## 🚀 About Me
 
