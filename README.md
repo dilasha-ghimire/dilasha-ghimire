@@ -4,7 +4,7 @@ Welcome to my GitHub! I am a passionate Computer Science student with a deep int
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning about: **Machine Learning**, **Artificial Intelligence**
+- 🌱 I’m currently learning about: **Machine Learning**, **Artificial Intelligence**, **Data Science**
 - 💻 I’m working on: **Undergraduate Thesis**, **Personal AI/ML projects**
 - 🧐 I’m looking to collaborate on: **AI/ML projects**, **Full-stack development** projects, or any **open-source** initiatives.
 
