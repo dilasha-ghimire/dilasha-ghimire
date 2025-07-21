@@ -10,8 +10,8 @@ Welcome to my GitHub! I am a passionate Computer Science student with a deep int
 
 ## 🔧 Technologies I Use
 
-- Programming languages: **JavaScript**, **Java**, **Python**, **TypeScript**
-- Tools & frameworks: **React**, **Node.js**, **Express**, **MongoDB**, **MySQL**, **Flutter**, **Figma**
+- Programming languages: **Python**, **JavaScript**, **Java**, **TypeScript**
+- Tools & frameworks: **React.js**, **Node.js**, **Express.js**, **MongoDB**, **MySQL**, **Flutter**, **Figma**
 
 ## 📫 How to Reach Me
 
