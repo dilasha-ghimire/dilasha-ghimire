@@ -1,12 +1,15 @@
 # Hi there, I'm Dilasha Ghimire👋
 
-Welcome to my GitHub! I am a passionate Computer Science student with a deep interest in Data Science, AI and Machine Learning. As a girl in tech, I’m driven to contribute to the ever-evolving world of technology and explore innovative solutions. I’m always eager to learn, collaborate, and grow within the tech community. Feel free to explore my repositories!
+I'm a curious and driven Computer Science student with a growing passion for data science and its power to solve real-world problems. From coding projects to uncovering insights through data, I enjoy exploring how technology can make life smarter, simpler, and more impactful.
+
+As a girl in tech, I'm always eager to learn, build, and collaborate. I love diving into new tools, experimenting with ideas, and constantly challenging myself to improve.
+
+When I’m not immersed in code or data, you’ll find me spending time with my family and friends, traveling, and making new memories. I believe that staying curious both inside and outside the tech world fuels creativity and innovation.
 
 ## 🚀 About Me
 
 - 🌱 I’m currently learning: **Python**, **Data Science**
 - 💻 I’m working on: **Personal projects**
-- 🧐 I’m looking to collaborate on: Projects, or any **open-source** initiatives.
 
 ## 🔧 Technologies I Use/ Have Used
 
