@@ -2,9 +2,9 @@
 
 I'm a curious and driven Computer Science student with a growing passion for data science and its power to solve real-world problems. From coding projects to uncovering insights through data, I enjoy exploring how technology can make life smarter, simpler, and more impactful.
 
-As a girl in tech, I'm always eager to learn, build, and collaborate. I love diving into new tools, experimenting with ideas, and constantly challenging myself to improve.
+As a girl in tech, I advocate for more women to pursue opportunities in STEM and strive to be at the forefront of encouraging more people to step into technology. I believe creating an inclusive space where everyone can build, create, and lead confidently helps drive innovation and progress.
 
-When I’m not immersed in code or data, you’ll find me spending time with my family and friends, traveling, and making new memories. I believe that staying curious both inside and outside the tech world fuels creativity and innovation.
+I'm always eager to learn, build, and collaborate. I love diving into new tools, experimenting with ideas, and challenging myself to improve. When I’m not immersed in code or data, you’ll find me spending time with family and friends, traveling, and making new memories. I believe staying curious both inside and outside the tech world fuels creativity and innovation.
 
 ## 🚀 About Me
 
