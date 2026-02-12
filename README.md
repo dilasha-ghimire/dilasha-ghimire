@@ -20,8 +20,9 @@ I'm always eager to learn, build, and collaborate. I love diving into new tools,
 
 <p align="left">
 <a href="https://linkedin.com/in/dilasha-ghimire" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="in/dilasha-ghimire" height="40" width="40" /></a>
-<a href="https://instagram.com/dilashha" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="dilashha" height="40" width="40" /></a>
+<a href="https://instagram.com/dilashha" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="@dilashha" height="40" width="40" /></a>
 <a href="https://medium.com/@dilasha-ghimire" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="@dilasha-ghimire" height="40" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~017c58565c427dc3d1" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" alt="@dilasha-ghimire" height="40" width="40" /></a>
 </p>
 
 Feel free to check out my repositories and get in touch! 😊
