@@ -1,10 +1,12 @@
 # Hi there, I'm Dilasha Ghimire👋
 
-I'm a curious and driven Computer Science student with a growing passion for data science and its power to solve real-world problems. From coding projects to uncovering insights through data, I enjoy exploring how technology can make life smarter, simpler, and more impactful.
+I have a strong interest in data science and its application in solving real-world problems. I have hands-on experience through academic and personal projects in the MERN stack and Flutter, along with an AWS Solutions Architect certification.
 
-As a girl in tech, I advocate for more women to pursue opportunities in STEM and strive to be at the forefront of encouraging more people to step into technology. I believe creating an inclusive space where everyone can build, create, and lead confidently helps drive innovation and progress.
+I am currently focused on AI and Machine Learning, building strong foundations in Python, statistics, data analysis workflows, and machine learning. I am transitioning from software development into data science, with a focus on scalable, data-driven solutions and practical problem solving.
 
-I'm always eager to learn, build, and collaborate. I love diving into new tools, experimenting with ideas, and challenging myself to improve. When I’m not immersed in code or data, you’ll find me spending time with family and friends, traveling, and making new memories. I believe staying curious both inside and outside the tech world fuels creativity and innovation.
+As a woman in tech, I am committed to encouraging greater participation of women in STEM and contributing to a more inclusive technology ecosystem. I believe innovation is strongest when diverse perspectives are actively included and supported.
+
+I am continuously learning, building, and collaborating. I enjoy exploring new tools, experimenting with ideas, and challenging myself to grow both technically and personally. Outside of tech, I value time with family and friends, travel, and experiences that broaden my perspective.
 
 ## 🚀 About Me
 
@@ -19,10 +21,9 @@ I'm always eager to learn, build, and collaborate. I love diving into new tools,
 ## 📫 How to Reach Me
 
 <p align="left">
-<a href="https://linkedin.com/in/dilasha-ghimire" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="in/dilasha-ghimire" height="40" width="40" /></a>
-<a href="https://instagram.com/dilashha" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="@dilashha" height="40" width="40" /></a>
-<a href="https://medium.com/@dilasha-ghimire" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="@dilasha-ghimire" height="40" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~017c58565c427dc3d1" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" alt="@dilasha-ghimire" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/dilasha-ghimire"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40"/></a>
+<a href="https://instagram.com/dilashha"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/></a>
+<a href="https://medium.com/@dilasha-ghimire"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="40"/></a>
 </p>
 
 Feel free to check out my repositories and get in touch! 😊
