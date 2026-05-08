@@ -1,22 +1,28 @@
 # Hi there, I'm Dilasha Ghimire👋
 
-I have a strong interest in data science and its application in solving real-world problems. I have hands-on experience through academic and personal projects in the MERN stack and Flutter, along with an AWS Solutions Architect certification.
+I’m a Computer Science graduate transitioning from full-stack development into data science and machine learning. I enjoy building, learning, and exploring how data and technology can solve real-world problems in meaningful ways.
 
-I am currently focused on AI and Machine Learning, building strong foundations in Python, statistics, data analysis workflows, and machine learning. I am transitioning from software development into data science, with a focus on scalable, data-driven solutions and practical problem solving.
+My background includes hands-on experience with the MERN stack and Flutter, along with an AWS Solutions Architect certification. I am currently focused on strengthening my skills in Python, statistics, data analysis, and machine learning.
 
-As a woman in tech, I am committed to encouraging greater participation of women in STEM and contributing to a more inclusive technology ecosystem. I believe innovation is strongest when diverse perspectives are actively included and supported.
+I’m especially interested in building systems that are not just functional, but data-driven, scalable, and impactful.
 
-I am continuously learning, building, and collaborating. I enjoy exploring new tools, experimenting with ideas, and challenging myself to grow both technically and personally. Outside of tech, I value time with family and friends, travel, and experiences that broaden my perspective.
+As someone growing in tech, I also care deeply about increasing representation of women in STEM and contributing to a more inclusive and supportive tech ecosystem.
 
-## 🚀 About Me
+Outside of coding, I enjoy learning new tools, experimenting with ideas, traveling, and spending time with family and friends. I believe curiosity outside of tech is just as important as curiosity inside it.
 
-- 🌱 I’m currently learning: **Python**, **Data Science**, **Machine Learning**
-- 💻 I’m working on: **Personal projects**
+## 🚀 Current Focus
+
+- Python for Data Science
+- Statistics & Probability
+- Machine Learning Fundamentals
+- Data Analysis & Visualization
 
 ## 🔧 Technologies I Use/ Have Used
 
-- Programming languages: **Python**, **JavaScript**, **Java**, **TypeScript**
-- Tools & frameworks: **React.js**, **Node.js**, **Express.js**, **MongoDB**, **MySQL**, **Flutter**, **Figma**
+- **Languages:** Python, JavaScript, Java, TypeScript
+- **Backend & Web:** Node.js, Express.js, React.js
+- **Databases:** MongoDB, MySQL
+- **Other Tools:** Flutter, Figma, AWS (Solutions Architect)
 
 ## 📫 How to Reach Me
 
